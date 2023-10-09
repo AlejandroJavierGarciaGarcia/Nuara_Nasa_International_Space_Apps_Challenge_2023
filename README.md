@@ -18,7 +18,7 @@ As a team, through this project, we aspire to be the next wave of scientists, ex
 ---
 
 ## Project Demo 🚀
-[Ver el video de demostración](https://youtu.be/FPeIaX_4tKg)
+(https://youtu.be/FPeIaX_4tKg)
 ![Nuara Logo](Nuara_Logo.jpeg)
 
 ## Space Apps 2023 ☄
@@ -38,11 +38,11 @@ Nuara is a project where we've crafted a video game tailored for individuals age
 Nuara educates users about the features making our exoplanet habitable. This interactive learning occurs through the story mode, narrating the astronaut's arrival and adventures on Nuara, accompanied by explanations from the robot guide found on the planet. Players use keyboard arrows to navigate the exoplanet's map. 
 ---
 ### Benefits? ✅
-*Interactive Education: As an educational video game, Nuara offers a stage for users to understand what an exoplanet is and delve deep into astrobiology, planetary habitability, and astronomy in an engaging manner.
-*Stoking Scientific Curiosity: By letting users explore Nuara, we cultivate curiosity and kindle interest in space sciences.
-*Tech Innovation: Integrating tools like Game Maker and Blender showcases a novel melding of tech to deliver top-tier user experiences.
-*Promoting STEM careers: By presenting scientific concepts appealingly, we might inspire youth to ponder STEM careers.
-*Collaboration & Community: Rooted in factual scientific data, there are avenues for collaborations with educational entities, observatories, and space enthusiasts.
+-Interactive Education: As an educational video game, Nuara offers a stage for users to understand what an exoplanet is and delve deep into astrobiology, planetary habitability, and astronomy in an engaging manner.
+-Stoking Scientific Curiosity: By letting users explore Nuara, we cultivate curiosity and kindle interest in space sciences.
+-Tech Innovation: Integrating tools like Game Maker and Blender showcases a novel melding of tech to deliver top-tier user experiences.
+-Promoting STEM careers: By presenting scientific concepts appealingly, we might inspire youth to ponder STEM careers.
+-Collaboration & Community: Rooted in factual scientific data, there are avenues for collaborations with educational entities, observatories, and space enthusiasts.
 ---
 ### Coding platforms 💻
 -GameMaker: Through this platform, the design and interactions of the exoplanet were developed using level editors and sprites. The educational components and interactive lessons were combined using the DnD or GML system, creating interactive learning modules on the habitability of the Nuara.
