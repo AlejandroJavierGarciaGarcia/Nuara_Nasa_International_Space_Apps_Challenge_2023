@@ -19,7 +19,7 @@ As a team, through this project, we aspire to be the next wave of scientists, ex
 
 ## Project Demo 🚀
 (https://youtu.be/FPeIaX_4tKg)
-![Nuara Logo](Nuara_Logo.jpeg)
+![Nuara Logo](Images/Nuara_Logo.jpeg)
 
 ## Space Apps 2023 ☄
 https://www.spaceappschallenge.org/2023/find-a-team/nuara/?tab=project
@@ -28,7 +28,7 @@ https://www.spaceappschallenge.org/2023/find-a-team/nuara/?tab=project
 The lush greens and deep blues suggest vast expanses of liquid water and thriving vegetation on the planet. In astrobiology, the presence of liquid water stands as a paramount indicator for potential life. Meanwhile, the rich oranges and browns pinpoint arid regions, deserts teeming with iron and essential minerals. Lastly, the wisps of white signal the presence of clouds or perhaps ice formations in Nuara's higher altitudes or polar regions. These cloud patterns play a pivotal role in climate regulation, reflecting sunlight and preserving heat.
 
 These colors offer a window into not just its geographic and geologic facets but also its potential to harbor life. This positions Nuara as a beacon of interest in the realms of astrobiology and space exploration. Supported by robust scientific data, Nuara stands as a compelling contender for extraterrestrial habitability. Such insights, while teeming with technical depth, are presented to captivate and pique the reader's intrigue, ensuring they remain enthralled with the wonders of Nuara.
-![Nuara exoplanet](Exoplanet Nuara.png)
+![Nuara exoplanet](Images/Exoplanet Nuara.png)
 
 # Project Details 💡
 **Nuara encapsulates our fervor for space, our thirst for knowledge, and our hope to inspire others to dream big.**
@@ -48,23 +48,26 @@ Nuara is a project where we've crafted a video game tailored for individuals age
 
 **-OnShape**
 
-![Nuara Blender design](Blender_Design.jpeg)
+![Nuara Blender design](Images/Blender_Design.jpeg)
 ---
-![Nuara OnShape design](OnShape_Design.jpeg)
+![Nuara OnShape design](Images/OnShape_Design.jpeg)
 ---
-![Nuara GameMaker design](GameMekerCode.jpeg)
+![Nuara GameMaker design](Images/GameMekerCode.jpeg)
 ---
-![Nuara GameMaker design](Nuara_GameMaker.jpeg)
+![Nuara GameMaker design](Images/Nuara_GameMaker.jpeg)
 ---
-![Nuara design](DesignNuara.jpeg)
+![Nuara design](Images/DesignNuara.jpeg)
+---
+![Nuara design](Images/NuaraExoplanetFinal.jpeg)
+
 ### Exoplanet Design 🪐
 The lush greens and deep blues suggest vast expanses of liquid water and thriving vegetation on the planet. In astrobiology, the presence of liquid water stands as a paramount indicator for potential life. Meanwhile, the rich oranges and browns pinpoint arid regions, deserts teeming with iron and essential minerals. Lastly, the wisps of white signal the presence of clouds or perhaps ice formations in Nuara's higher altitudes or polar regions. These cloud patterns play a pivotal role in climate regulation, reflecting sunlight and preserving heat.
 
 These colors offer a window into not just its geographic and geologic facets but also its potential to harbor life. This positions Nuara as a beacon of interest in the realms of astrobiology and space exploration. Supported by robust scientific data, Nuara stands as a compelling contender for extraterrestrial habitability. Such insights, while teeming with technical depth, are presented to captivate and pique the reader's intrigue, ensuring they remain enthralled with the wonders of Nuara.
-![Nuara design](Exoplanet Nuara.png)
+![Nuara design](Images/Exoplanet Nuara.png)
 
 ## Team 🌍
-![Nuara team](Team_Nuara.png)
+![Nuara team](Images/Team_Nuara.png)
 
 
 ## References 🛰️
