@@ -30,26 +30,26 @@ The lush greens and deep blues suggest vast expanses of liquid water and thrivin
 These colors offer a window into not just its geographic and geologic facets but also its potential to harbor life. This positions Nuara as a beacon of interest in the realms of astrobiology and space exploration. Supported by robust scientific data, Nuara stands as a compelling contender for extraterrestrial habitability. Such insights, while teeming with technical depth, are presented to captivate and pique the reader's intrigue, ensuring they remain enthralled with the wonders of Nuara.
 ![Nuara exoplanet](Exoplanet Nuara.png)
 
-# Project Details 🌠
+# Project Details 💡
 **Nuara encapsulates our fervor for space, our thirst for knowledge, and our hope to inspire others to dream big.**
 ## What's its purpose?
 Nuara is a project where we've crafted a video game tailored for individuals aged 12 and up, aiming to ignite a passion for astronomy, astrophysics, and various cosmic explorations. The game's mission is to provide players with a glimpse into life on a habitable exoplanet, sparking that innate human curiosity that's led to monumental achievements, such as landing on the Moon. In this game, you're the trailblazer, venturing into uncharted territories and unraveling the universe's mysteries. Let's go!
 
 Nuara educates users about the features making our exoplanet habitable. This interactive learning occurs through the story mode, narrating the astronaut's arrival and adventures on Nuara, accompanied by explanations from the robot guide found on the planet. Players use keyboard arrows to navigate the exoplanet's map. 
 ---
-### Benefits? ✅
+## Benefits? ✅
 -Interactive Education: As an educational video game, Nuara offers a stage for users to understand what an exoplanet is and delve deep into astrobiology, planetary habitability, and astronomy in an engaging manner.
 -Stoking Scientific Curiosity: By letting users explore Nuara, we cultivate curiosity and kindle interest in space sciences.
 -Tech Innovation: Integrating tools like Game Maker and Blender showcases a novel melding of tech to deliver top-tier user experiences.
 -Promoting STEM careers: By presenting scientific concepts appealingly, we might inspire youth to ponder STEM careers.
 -Collaboration & Community: Rooted in factual scientific data, there are avenues for collaborations with educational entities, observatories, and space enthusiasts.
 ---
-### Coding platforms 💻
--GameMaker: Through this platform, the design and interactions of the exoplanet were developed using level editors and sprites. The educational components and interactive lessons were combined using the DnD or GML system, creating interactive learning modules on the habitability of the Nuara.
+## Coding platforms 💻
+**-GameMaker:** Through this platform, the design and interactions of the exoplanet were developed using level editors and sprites. The educational components and interactive lessons were combined using the DnD or GML system, creating interactive learning modules on the habitability of the Nuara.
 
--Blender
+**-Blender**
 
--OnShape
+**-OnShape**
 
 ![Nuara Blender design](Blender_Design.jpeg)
 ---
@@ -59,12 +59,12 @@ Nuara educates users about the features making our exoplanet habitable. This int
 ---
 ![Nuara GameMaker design](Nuara_GameMaker.jpeg)
 ---
-
+![Nuara design](DesignNuara.jpeg)
 ### Exoplanet Design 🪐
 The lush greens and deep blues suggest vast expanses of liquid water and thriving vegetation on the planet. In astrobiology, the presence of liquid water stands as a paramount indicator for potential life. Meanwhile, the rich oranges and browns pinpoint arid regions, deserts teeming with iron and essential minerals. Lastly, the wisps of white signal the presence of clouds or perhaps ice formations in Nuara's higher altitudes or polar regions. These cloud patterns play a pivotal role in climate regulation, reflecting sunlight and preserving heat.
 
 These colors offer a window into not just its geographic and geologic facets but also its potential to harbor life. This positions Nuara as a beacon of interest in the realms of astrobiology and space exploration. Supported by robust scientific data, Nuara stands as a compelling contender for extraterrestrial habitability. Such insights, while teeming with technical depth, are presented to captivate and pique the reader's intrigue, ensuring they remain enthralled with the wonders of Nuara.
-![Nuara design](DesignNuara.jpeg)
+![Nuara design](Exoplanet Nuara.png)
 
 ## Team 🌍
 ![Nuara Logo](Team Nuara.jpg)
