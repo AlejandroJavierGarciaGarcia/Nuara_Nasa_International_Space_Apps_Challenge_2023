@@ -1,4 +1,4 @@
-# Naura Nasa International Space Apps Challenge 2023 🌌
+# Nuara  Nasa International Space Apps Challenge 2023 🌌
 
 **Nuara** is a meticulously crafted video game tailored for individuals aged 12 and up. Our aim? To ignite a fervent passion for astronomy, astrophysics, and the boundless cosmic explorations.
 
@@ -19,8 +19,17 @@ As a team, through this project, we aspire to be the next wave of scientists, ex
 
 ## Project Demo 🚀
 https://youtu.be/L10aLgnEeh4
+Nuara_Logo.jpeg
 
-## References 🎯
+
+## Space Apps 2023 ☄
+https://www.spaceappschallenge.org/2023/find-a-team/nuara/?tab=project
+
+## Team 🌍
+Team Nuara.jpg
+
+
+## References 🛰️
 -Brennan, P., Walbolt, K. & Schirner, T. (2021). The Search For Life. Expoplanet Exploration. https://exoplanets.nasa.gov/search-for-life/habitable-zone/
 -Brennan, P., Walbolt, K. & Schirner, T. (2021). What is an Exoplanet?. Expoplanet Exploration. https://exoplanets.nasa.gov/what-is-an-exoplanet/overview/
 -Grostal, A. (2023). Machine Learning in the Search for Agnostic Biosignatures. https://astrobiology.nasa.gov/news/machine-learning-in-the-search-for-agnostic-biosignatures/
@@ -29,7 +38,6 @@ https://youtu.be/L10aLgnEeh4
 -NASA/ESA/CSA/STScI. (2022). Canada's NIRISS reveals steamy atmosphere of distant planet in detail. https://www.asc-csa.gc.ca/eng/news/articles/2022/20220712-canada-s-niriss-reveals-steamy-atmosphere-distant-planet-in-detail.asp
 -Stern, D. (2004).  La Magnetosfera. https://pwg.gsfc.nasa.gov/Education/Mms1.html
 The European Space Agency. (2023). Exoplanets. https://www.esa.int/Science_Exploration/Space_Science/Exoplanets
- 
  
  
  
