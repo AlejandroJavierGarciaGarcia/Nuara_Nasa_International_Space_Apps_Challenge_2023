@@ -64,7 +64,7 @@ These colors offer a window into not just its geographic and geologic facets but
 ![Nuara design](Exoplanet Nuara.png)
 
 ## Team 🌍
-![Nuara Logo](Team Nuara.jpg)
+![Nuara team](Team_Nuara.png)
 
 
 ## References 🛰️
