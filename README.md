@@ -33,17 +33,14 @@ These colors offer a window into not just its geographic and geologic facets but
 # Project Details 💡
 **Nuara encapsulates our fervor for space, our thirst for knowledge, and our hope to inspire others to dream big.**
 ## What's its purpose?
-Nuara is a project where we've crafted a video game tailored for individuals aged 12 and up, aiming to ignite a passion for astronomy, astrophysics, and various cosmic explorations. The game's mission is to provide players with a glimpse into life on a habitable exoplanet, sparking that innate human curiosity that's led to monumental achievements, such as landing on the Moon. In this game, you're the trailblazer, venturing into uncharted territories and unraveling the universe's mysteries. Let's go!
-
-Nuara educates users about the features making our exoplanet habitable. This interactive learning occurs through the story mode, narrating the astronaut's arrival and adventures on Nuara, accompanied by explanations from the robot guide found on the planet. Players use keyboard arrows to navigate the exoplanet's map. 
----
+Nuara is a project where we've crafted a video game tailored for individuals aged 12 and up, aiming to ignite a passion for astronomy, astrophysics, and various cosmic explorations. The game's mission is to provide players with a glimpse into life on a habitable exoplanet, sparking that innate human curiosity that's led to monumental achievements, such as landing on the Moon. In this game, you're the trailblazer, venturing into uncharted territories and unraveling the universe's mysteries. Let's go! Nuara educates users about the features making our exoplanet habitable. This interactive learning occurs through the story mode, narrating the astronaut's arrival and adventures on Nuara, accompanied by explanations from the robot guide found on the planet. Players use keyboard arrows to navigate the exoplanet's map. 
 ## Benefits? ✅
--Interactive Education: As an educational video game, Nuara offers a stage for users to understand what an exoplanet is and delve deep into astrobiology, planetary habitability, and astronomy in an engaging manner.
--Stoking Scientific Curiosity: By letting users explore Nuara, we cultivate curiosity and kindle interest in space sciences.
--Tech Innovation: Integrating tools like Game Maker and Blender showcases a novel melding of tech to deliver top-tier user experiences.
--Promoting STEM careers: By presenting scientific concepts appealingly, we might inspire youth to ponder STEM careers.
--Collaboration & Community: Rooted in factual scientific data, there are avenues for collaborations with educational entities, observatories, and space enthusiasts.
----
+- Interactive Education: As an educational video game, Nuara offers a stage for users to understand what an exoplanet is and delve deep into astrobiology, planetary habitability, and astronomy in an engaging manner.
+- Stoking Scientific Curiosity: By letting users explore Nuara, we cultivate curiosity and kindle interest in space sciences.
+- Tech Innovation: Integrating tools like Game Maker and Blender showcases a novel melding of tech to deliver top-tier user experiences.
+- Promoting STEM careers: By presenting scientific concepts appealingly, we might inspire youth to ponder STEM careers.
+- Collaboration & Community: Rooted in factual scientific data, there are avenues for collaborations with educational entities, observatories, and space enthusiasts.
+
 ## Coding platforms 💻
 **-GameMaker:** Through this platform, the design and interactions of the exoplanet were developed using level editors and sprites. The educational components and interactive lessons were combined using the DnD or GML system, creating interactive learning modules on the habitability of the Nuara.
 
