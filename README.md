@@ -30,21 +30,33 @@ https://www.spaceappschallenge.org/2023/find-a-team/nuara/?tab=project
 
 ## Life in Nuara 👩‍🚀👨‍🚀
 Nuara, an astral exoplanet in the Andromeda Galaxy, has captivated the imagination of interstellar explorers. A mere 2.5 light-years away from our home, this exoplanet promises a glimpse into an alternate reality of what life could be beyond our own blue planet. But what would life truly be like on Nuara? Let's embark on a journey of discovery.
+
 The first sensation you'd feel as you step onto Nuara's surface would be the strong tug of gravity, a testament to its higher mineral concentration and dense core. This dense nature has another surprising benefit vast underground aquifers that have formed over billions of years. Nuara's longer days and nights, a result of its 28-hour rotation, would require some adjustment. However, it would be nothing short of mesmerizing to witness the extended sunrises and sunsets, painting the sky in hues we might never have imagined.
+
 Water, the elixir of life, is abundant here, but not just in the form we're accustomed to. Alongside vast, Earth-like oceans, Nuara boasts enormous liquid bodies of methane or ethane. These "lakes" and "seas" not only mirror the ethereal landscapes of Saturn's moon Titan but also harbor their own unique ecosystems, teeming with life forms waiting to be studied and understood.
+
 The planet's topography is a diverse mosaic. The rust-orange rocky regions are a result of iron silicates reacting with oxygen, while phosphates, clays, and carbonates contribute to its varied, earthy tones. Nuara's vibrant green regions are particularly intriguing. With an atmosphere rich in chlorophyll type B, the vegetation here absorbs more green light, giving flora a unique appearance unlike anything on Earth.
+
 The climate on Nuara is as varied as its landscape. Its 30-degree axial tilt leads to pronounced seasons, dictating the rhythm of life for its inhabitants. Organisms have evolved to withstand the intense sunlight of extended days and the chilling cold of prolonged nights. The flora is robust, with thick leaves and sturdy stems, while the fauna likely comprises extremophiles, resilient creatures that thrive in Nuara's unique conditions.
+
 Beyond its physical characteristics, what makes Nuara truly special is its age. At 6 billion years old, it offers a vast timeline for evolution, much longer than Earth's. This extended history suggests a rich tapestry of life, with complex ecosystems that have had eons to diversify and adapt.
 Living on Nuara would mean adapting to its rhythms and marveling at its unique biological wonders. The auroras at its poles, akin to Earth's Northern Lights, would be a spectacle to behold, a dance of lights illuminating the sky. And while the planet's mysteries would provide endless fascination, the robust magnetosphere ensures protection from harmful solar radiation, making it a safe haven for life.
+
 In essence, life on Nuara would be both familiar and alien. Its landscapes might remind us of Earth's varied terrains, but its biological and atmospheric nuances would be a constant source of wonder. Nuara stands as a testament to the universe's boundless creativity, offering a world where the familiar meets the fantastic. It beckons us, inviting us to dream, explore, and, most importantly, to discover. For in Nuara, we see not just another planet, but a mirror reflecting the myriad possibilities that the universe has in store.
-s
 
 
-## Exoplanet: NUARA 🌠
+## Exoplanet Design 🪐
 The lush greens and deep blues suggest vast expanses of liquid water and thriving vegetation on the planet. In astrobiology, the presence of liquid water stands as a paramount indicator for potential life. Meanwhile, the rich oranges and browns pinpoint arid regions, deserts teeming with iron and essential minerals. Lastly, the wisps of white signal the presence of clouds or perhaps ice formations in Nuara's higher altitudes or polar regions. These cloud patterns play a pivotal role in climate regulation, reflecting sunlight and preserving heat.
 
 These colors offer a window into not just its geographic and geologic facets but also its potential to harbor life. This positions Nuara as a beacon of interest in the realms of astrobiology and space exploration. Supported by robust scientific data, Nuara stands as a compelling contender for extraterrestrial habitability. Such insights, while teeming with technical depth, are presented to captivate and pique the reader's intrigue, ensuring they remain enthralled with the wonders of Nuara.
-![Nuara exoplanet](Images/Exoplanet Nuara.png)
+
+![Nuara team](Images/Exoplanet_Nuara.png)
+
+## Whow does it operate? 🖥️
+The application runs on computational devices, inviting players to embark on an exoplanetary expedition. The trajectory of the protagonist's narrative unveils the exoplanet's attributes.
+Nuara begins with a pixel art representation of the habitable exoplanet we have designed. To start the adventure, the user must press "play." Next, instructions are provided on how to move and interact within the game. The main objective is to gather all the available information about this exoplanet, which is achieved by interacting with "robots" that humans sent to investigate the place millennia ago. Upon collecting all the information, the player wins. Throughout this journey, the essential elements for life on a planet are explored, allowing the player to appreciate the wonderful complexity of our own home called Earth.
+![Nuara exoplanet](Images/Nuara_Initial.png)
+
 
 # Project Details 💡
 **Nuara encapsulates our fervor for space, our thirst for knowledge, and our hope to inspire others to dream big.**
@@ -77,13 +89,7 @@ Nuara is a project where we've crafted a video game tailored for individuals age
 ![Nuara design](Images/DesignNuara.jpeg)
 
 
-## Exoplanet Design 🪐
-The lush greens and deep blues suggest vast expanses of liquid water and thriving vegetation on the planet. In astrobiology, the presence of liquid water stands as a paramount indicator for potential life. Meanwhile, the rich oranges and browns pinpoint arid regions, deserts teeming with iron and essential minerals. Lastly, the wisps of white signal the presence of clouds or perhaps ice formations in Nuara's higher altitudes or polar regions. These cloud patterns play a pivotal role in climate regulation, reflecting sunlight and preserving heat.
 
-These colors offer a window into not just its geographic and geologic facets but also its potential to harbor life. This positions Nuara as a beacon of interest in the realms of astrobiology and space exploration. Supported by robust scientific data, Nuara stands as a compelling contender for extraterrestrial habitability. Such insights, while teeming with technical depth, are presented to captivate and pique the reader's intrigue, ensuring they remain enthralled with the wonders of Nuara.
-
-
-![Nuara team](Images/Exoplanet_Nuara.png)
 
 ## NASA digital resources 🌕
 -The Search For Life - Expoplanet Exploration: This resource provided invaluable insights into the quest for life on exoplanets and the definition of the "habitable zone." It was instrumental in determining the ideal conditions under which Nuara could support life, ensuring it resides within the habitable zone of its host star, Xibalbá (a K star).
