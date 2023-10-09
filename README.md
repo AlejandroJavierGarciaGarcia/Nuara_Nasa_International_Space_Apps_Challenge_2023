@@ -56,15 +56,30 @@ Nuara is a project where we've crafted a video game tailored for individuals age
 ---
 ![Nuara GameMaker design](Images/Nuara_GameMaker.jpeg)
 ---
-![Nuara design](Images/DesignNuara.jpeg)
----
 ![Nuara design](Images/NuaraExoplanetFinal.jpeg)
+---
+![Nuara design](Images/DesignNuara.jpeg)
 
-### Exoplanet Design 🪐
+
+## Exoplanet Design 🪐
 The lush greens and deep blues suggest vast expanses of liquid water and thriving vegetation on the planet. In astrobiology, the presence of liquid water stands as a paramount indicator for potential life. Meanwhile, the rich oranges and browns pinpoint arid regions, deserts teeming with iron and essential minerals. Lastly, the wisps of white signal the presence of clouds or perhaps ice formations in Nuara's higher altitudes or polar regions. These cloud patterns play a pivotal role in climate regulation, reflecting sunlight and preserving heat.
 
 These colors offer a window into not just its geographic and geologic facets but also its potential to harbor life. This positions Nuara as a beacon of interest in the realms of astrobiology and space exploration. Supported by robust scientific data, Nuara stands as a compelling contender for extraterrestrial habitability. Such insights, while teeming with technical depth, are presented to captivate and pique the reader's intrigue, ensuring they remain enthralled with the wonders of Nuara.
-![Nuara design](Images/Exoplanet Nuara.png)
+
+
+![Nuara team](Images/Exoplanet_Nuara.png)
+
+## NASA digital resources 🌕
+--The Search For Life - Expoplanet Exploration: This resource provided invaluable insights into the quest for life on exoplanets and the definition of the "habitable zone." It was instrumental in determining the ideal conditions under which Nuara could support life, ensuring it resides within the habitable zone of its host star, Xibalbá (a K star).
+--What is an Exoplanet? - Expoplanet Exploration: This tool assisted in defining and understanding what an exoplanet is. It shed light on how to detect them and the traits they might possess. It laid the foundational knowledge for Nuara's conceptual design.
+--Machine Learning in the Search for Agnostic Biosignatures: Inspired by this source, the game incorporated the idea of using biochemical signatures to pinpoint life on Nuara and how cutting-edge tech, like machine learning, can aid in this pursuit.
+--The Andromeda Galaxy - NASA's Goddard Space Flight Center: Though Nuara is situated in the Andromeda Galaxy, this asset offered both a visual and theoretical grasp of the galaxy, aiding in contextualizing the celestial environment wherein Nuara resides.--
+--Exoplanet Exploration Planets Beyond Our Solar System: This NASA resource served as a general muse for the project, furnishing details about the spectrum of discovered exoplanets and their unique attributes.
+--Canada's NIRISS reveals steamy atmosphere of distant planet: Leveraging this intel, Nuara's atmosphere was conceptualized, mulling over how exoplanetary atmospheres are detected and researched, and how these impact the prospects of life.
+--La Magnetosfera: This NASA reference furnished insights on the magnetosphere's significance in shielding planets from harmful solar radiations. It was deployed to define and elucidate Nuara's robust magnetosphere and its contribution to its habitability.
+--Exoplanets - The European Space Agency: Complementing NASA's data, this asset provided a more holistic perspective on exoplanets and their study. It shaped the overarching vision of the project and integrated international data and theories.
+Through these resources, the Nuara project seamlessly blended accurate, real-world scientific data with gaming and interactivity elements, forging an educational yet captivating experience for users.
+
 
 ## Team 🌍
 ![Nuara team](Images/Team_Nuara.png)
